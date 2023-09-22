@@ -1,7 +1,9 @@
-### Hi there 👋
+<h1 align="center">Hola :v:, Soy Osvaldo Toro</h1>
+<h3 align="center">Soy de Chile </h3>
 
-<!--
-**OsvaldoTM/OsvaldoTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OsvaldoTM&show_icons=true&locale=en&theme=tokyonight&langs_count=3" alt="Osvaldo" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OsvaldoTM&show_icons=true&locale=en&theme=tokyonight" alt="Osvaldo" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OsvaldoTM&theme=dark" alt="Osvaldo" /></p>
+
 
 Here are some ideas to get you started:
 
